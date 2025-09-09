@@ -49,7 +49,7 @@ KiCad was used for designing the schematic and the PCB.
 
 ### Microcontroller
 
-Although the STM32F405 is still a good choice for flight controllers today, other more powerful microcontrollers also exist that are more powerful. [Betaflight guidlines](https://betaflight.com/docs/development/manufacturer/manufacturer-design-guidelines) suggest not using more than 4 motor outputs for STM32F4 or STM32F7 type microcontrollers.
+Although the STM32F405 is still a good choice for flight controllers today, other more powerful microcontrollers also exist. [Betaflight guidlines](https://betaflight.com/docs/development/manufacturer/manufacturer-design-guidelines) suggest not using more than 4 motor outputs for STM32F4 or STM32F7 type microcontrollers.
 
 ### PCB
 
